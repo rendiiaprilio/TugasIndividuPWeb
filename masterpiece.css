@@ -1,0 +1,48 @@
+.nav-link:hover {
+    text-decoration: underline;
+    color: black;
+}
+
+.Portofolio {
+    margin-top: 100px;
+    box-sizing: content-box;
+}
+.Portofolio h2 {
+    font-family: 'Open Sans', sans-serif;
+    color:crimson;
+}
+
+.container p {
+    font-family: fantasy;
+    color: #000;
+    font-size: 26px;
+}
+
+.Portofolio h3 {
+    font-family: 'Open Sans', sans-serif;
+    color: crimson;
+}
+.col-md-4 p {
+    font-family: 'Lucida Sans', sans-serif;
+    color: #000;
+    font-size: 16px;
+}
+
+.design-grafis {
+    position: relative;
+    border-style: dashed;
+    border-color: blanchedalmond;
+    width: 300px;
+    height: 380px;
+}
+
+.video {
+    position: relative;
+    width: 540px;
+    height: 360px;
+}
+
+.social img {
+    height: 30px;
+    width: 30px;
+}

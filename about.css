@@ -1,0 +1,61 @@
+.nav-link:hover {
+    text-decoration: underline;
+    color: black;
+}
+
+.about {
+    margin-top: 70px;
+}
+
+.about h2 {
+    margin-top: 35px;
+    font-family: 'Open Sans', sans-serif;
+    color: gold;
+}
+
+.about h4 {
+    color:crimson;
+}
+
+.about p {
+    font-size: 20px;
+    color: white;
+}
+
+.crop-img {
+    object-fit: cover;
+}
+  
+.tim img {
+    height: 360px;
+    width: 500px;
+}
+
+.social img {
+    height: 30px;
+    width: 30px;
+}
+
+.isi {
+    background-color: darkgrey;
+    font-family: 'Lucida Sans Regular'sans-serif;
+    color: black;
+}
+
+.banner {
+    background-color: burlywood;
+    background-size: cover;
+    height: 235px;
+}
+
+.banner h5 {
+    font-family: 'Trebuchet MS';
+	color : white;
+    font-style: bold;
+}
+
+.banner p {
+	font-family: 'Trebuchet MS';
+	color : crimson;
+    margin-top: 20px;
+}

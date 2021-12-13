@@ -1,0 +1,26 @@
+.nav-link:hover {
+    text-decoration: underline;
+    color: black;
+}
+
+.banner {
+    background: url("jumbo.jpg")no-repeat center center;
+    background-size: cover;
+    height: 730px;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color : #ffff;
+    font-size: medium;
+}
+
+.banner h5 {
+    font-family: 'Trebuchet MS';
+	color : white;
+    font-style: bold;
+}
+
+.banner p {
+	font-family: 'Trebuchet MS';
+	color : gold;
+    margin-top: 150px;
+}
